@@ -1,0 +1,11 @@
+{
+  "enter_track_code": "Enter track code \n\n>>> ",
+  "wrong_code": "Incorrect package code!",
+  "warner": "If after a few seconds you still cannot see the package status at the bottom, please check the package number or internet connection!",
+  "invalid_length": "invalid length of the package code!",
+  "Przygotowana przez Nadawcę.": "Prepared by the Sender.",
+  "Odebrana od klienta.": "Received from the sender.",
+  "Przyjęta w Sortowni.": "Received at the sorting.",
+  "Przyjęta w oddziale InPost.": "Accepted at the InPost branch.",
+  "Umieszczona w Paczkomacie (odbiorczym).": "Located in the parcel locker (receiving)."
+}

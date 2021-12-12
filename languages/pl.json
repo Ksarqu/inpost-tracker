@@ -1,0 +1,11 @@
+{
+  "enter_track_code": "Podaj kod odbioru paczki \n\n>>> ",
+  "wrong_code": "Niepoprawny kod paczki!",
+  "warner": "Jeśli po upływie kilku sekund nadal nie widzisz statusu paczki na dole, sprawdź numer paczki lub połączenie internetowe!",
+  "invalid_length": "nie prawidłowa długość kodu sledzenia!",
+  "Przygotowana przez Nadawcę.": "Przygotowana przez Nadawcę.",
+  "Odebrana od klienta.": "Odebrana od nadawcy.",
+  "Przyjęta w Sortowni.": "Przyjęta w Sortowni.",
+  "Przyjęta w oddziale InPost.": "Przyjęta w oddziale InPost.",
+  "Umieszczona w Paczkomacie (odbiorczym).": "Umieszczona w Paczkomacie (odbiorczym)."
+}
