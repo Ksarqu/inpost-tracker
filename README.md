@@ -11,9 +11,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install needed 
 ```bash
 pip install -r requirements.txt
 ```
-btw, i am using **python 3.9.7**, if you are using older version or something, please notice you may have problems with it!
-
-
 ## Usage
 
 ```bash
